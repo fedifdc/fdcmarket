@@ -1,2 +1,2 @@
 # fdcmarket
-Repository semua plugin yang dipakai di sistem fdc-market.com
+Repository plugin yang telah di modifikasi pada sistem fdc-market.com
